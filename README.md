@@ -1,2 +1,2 @@
 # ecoleta-nlw
-Project developed during the goStack week by Rocketseat.
+Project developed during the Next Level week by Rocketseat.
